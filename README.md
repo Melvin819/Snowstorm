@@ -1,2 +1,9 @@
-# Snowstorm
-To evoke an emotion of tranquility
+# Snowing throughout the night
+
+
+## Artist Statement
+
+### Materials/ Software Used
+TouchDesigner
+
+#### Credits
