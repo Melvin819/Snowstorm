@@ -4,7 +4,7 @@
 It is meant to reminisce about the past and evoke a feeling of tranquility.
 
 ## Artist Statement
-Snowstorm is a piece that reflects a moment from my childhood when I would look out the window and see the snow falling as the wind drives the snow. This piece is meant to be a peaceful image of my childhood, when snowfall was more common to see, and snow was abundant to make a snow angel.
+"Snowstorm" is a piece that reflects a moment from my childhood when I would look out the window and watch the snow falling, driven by the wind. This piece aims to capture a peaceful image of my youth, a time when snowfall was more frequent and there was plenty of snow to make snow angels.
 
 ### Materials/ Software Used
 TouchDesigner
